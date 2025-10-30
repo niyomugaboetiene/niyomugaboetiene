@@ -108,7 +108,7 @@
   <a href="https://twitter.com/@Niyomugabo_250">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52"/>
   </a>
-  <a href="https://instagram.com/etiene_250">
+  <a href="https://instagram.com//niyomugabo_etiene">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52"/>
   </a>
 </div>
