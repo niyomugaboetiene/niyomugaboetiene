@@ -94,9 +94,8 @@
 ---
 
 <h2 align="left">📊 GitHub Stats</h2> <div align="center"> 
-    <img src="https://github-readme-stats.vercel.app/api?username=niyomugaboetiene&show_icons=true&theme=dracula&hide=issues,prs&include_all_commits=true" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niyomugaboetiene&layout=compact&langs_count=8&theme=dracula" height="160"/> 
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=niyomugaboetiene&theme=dracula" height="300"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=niyomugaboetiene&show_icons=true&theme=dracula&hide=issues,prs&include_all_commits=true&count_private=true" height="160"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=niyomugaboetiene&theme=dracula" height="300"/>
 
 </div>
 ---
