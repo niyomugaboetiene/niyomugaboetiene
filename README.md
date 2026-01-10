@@ -93,14 +93,17 @@
 
 ---
 
-<h2 align="left">📊 GitHub Stats</h2> <div align="center"> 
-      <img src="https://github-readme-stats.vercel.app/api?username=niyomugaboetiene&show_icons=true&theme=dracula&hide=issues,prs&include_all_commits=true&count_private=true" height="160"/>
-     <img src="https://github-readme-activity-graph.vercel.app/graph?username=niyomugaboetiene&theme=dracula" height="300"/>
-    <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=niyomugaboetiene&show_icons=true&locale=en&layout=compact&theme=dark&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&icon_color=58a6ff&border_color=58a6ff&border_radius=10&card_width=300" alt="Top Languages" />
+<h2 align="left">📊 GitHub Stats</h2>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=niyomugaboetiene&show_icons=true&theme=dracula&hide=issues,prs&include_all_commits=true&count_private=true&hide_border=true" height="160"/>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niyomugaboetiene&theme=dark&hide_border=true&area=true" height="300"/>
+  
+  <br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyomugaboetiene&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages" height="160"/>
 </div>
----
 
 <h2 align="left">🌍 Connect with me</h2>
 <div align="left">
