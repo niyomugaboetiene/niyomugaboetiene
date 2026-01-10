@@ -33,7 +33,7 @@
 <h2 align="left">💼 My Projects</h2>
 <ul>
   <li>🔗 <a href="https://github.com/niyomugaboetiene/gikonko-chat-frontend">Real Time Web Application</a> – Real Time Web Application</li>
-  <li>🔗 <a href="https://niyomugaboetiene.onrender.com">Portfolio Website</a> – Personal Portfolio Website</li>
+  <li>🔗 <a href="https://niyomugaboetiene.vercel.app">Portfolio Website</a> – Personal Portfolio Website</li>
   <li>🔗 <a href="https://netmoviess.vercel.app/">Movies App</a> – Movies App</li>
   <li>🔗 <a href="https://github.com/niyomugaboetiene/#">Student Management System</a> – Student Management System</li>
   <li>🔗 <a href="https://github.com/niyomugaboetiene/task-remainder-mobile-app">Task Remainder mobile app</a> – Task remainder </li>
