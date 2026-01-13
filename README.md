@@ -99,12 +99,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=niyomugaboetiene&show_icons=true&theme=dracula&hide=issues,prs&include_all_commits=true&count_private=true&hide_border=true" height="160"/>
   
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niyomugaboetiene&theme=dark&hide_border=true&area=true" height="300"/>
-  
   <br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niyomugaboetiene&layout=compact&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Top Languages" height="160"/>
-</div>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niyomugaboetiene&theme=dracula" alt="Top Languages" height="160"/>
 <h2 align="left">🌍 Connect with me</h2>
 <div align="left">
   <a href="https://linkedin.com/in/niyomugaboetiene">
