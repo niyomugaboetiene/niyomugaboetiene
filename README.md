@@ -96,12 +96,15 @@
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  
-   ![Niyomugabo Etiene's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyomugaboetiene&show_icons=true&theme=transparent)
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niyomugaboetiene&theme=dark&hide_border=true&area=true" height="300"/>
-  <br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=niyomugaboetiene&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=ffffff&border_color=58a6ff&border_radius=10&card_width=300" />
+<!-- GitHub Stats Card -->
 
+  ![Etiene's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyomugaboetiene&show_icons=true&theme=react&hide_border=false)
+  
+<!-- Contribution Graph -->
+![Etiene's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=niyomugaboetiene&theme=react-dark&hide_border=true&area=true)
+
+<!-- Top Languages Donut Chart -->
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niyomugaboetiene&layout=donut&theme=react&langs_count=5)](https://github.com/niyomugaboetiene/github-readme-stats)
 
 
 <h2 align="left">🌍 Connect with me</h2>
