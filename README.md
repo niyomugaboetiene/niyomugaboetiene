@@ -88,6 +88,9 @@
 
   <!-- Top Languages Donut Chart -->
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=niyomugaboetiene&layout=donut&theme=react&langs_count=5)](https://github.com/niyomugaboetiene/github-readme-stats)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=niyomugaboetiene&color=36BCF7)
+
 </div>
 
 ---
