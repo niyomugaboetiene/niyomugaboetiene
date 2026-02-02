@@ -80,8 +80,10 @@
 <h2 align="left" style="color:#36BCF7;">📊 GitHub Stats</h2>
 <div align="center">
   
+  
   <!-- GitHub Stats Card -->
   ![Etiene's GitHub stats](https://github-readme-stats.vercel.app/api?username=niyomugaboetiene&show_icons=true&theme=react&hide_border=false)
+
   
   <!-- Contribution Graph -->
   ![Etiene's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=niyomugaboetiene&theme=react-dark&hide_border=true&area=true)
