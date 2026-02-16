@@ -44,12 +44,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" title="Solidity" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" title="Flask"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" />&nbsp;
 </div>
 
 <h3 style="color:#58a6ff;">🌐 Frontend</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" style="margin-right:8px;"/>
+<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" style="margin-right:8px;"/>
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="52" height="52" />&nbsp;
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="52" height="52" />&nbsp;
@@ -58,14 +58,14 @@
 
 <h3 style="color:#58a6ff;">📊 Machine Learning / Deep Learning</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" style="margin-right:8px;"/>
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow" style="margin-right:8px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>
 </div>
 
 <h3 style="color:#58a6ff;">🛢 Database</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" title="MySQL" style="margin-right:8px;"/>
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
 </div>
 
