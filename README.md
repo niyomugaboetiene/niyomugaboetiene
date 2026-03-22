@@ -41,38 +41,48 @@
 
 <h3 style="color:#58a6ff;">💻 Backend</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" title="Solidity" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" style="margin-right:8px;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" style="margin-right:8px;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" title="Solidity" style="margin-right:8px;"/>&nbsp;
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" />&nbsp;
 </div>
 
 <h3 style="color:#58a6ff;">🌐 Frontend</h3>
 <div align="left">
 <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React js" width="55" height="55" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" style="margin-right:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" title="Next.js" style="margin-right:8px;"/>&nbsp;
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="52" height="52" />&nbsp;
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="52" height="52" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" title="Vue.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" title="Vue.js"/>&nbsp;
 </div>
 
 <h3 style="color:#58a6ff;">📊 Machine Learning / Deep Learning</h3>
 <div align="left">
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" title="TensorFlow" style="margin-right:8px;"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" title="PyTorch"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pandas.svg" height="40" title="Pandas" style="margin-right:8px;"/></div>
+
+<h3 style="color:#58a6ff;">📱 Mobile Application Development</h3>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" title="Flutter" style="margin-right:8px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" title="Dart"/>&nbsp;
 </div>
 
 <h3 style="color:#58a6ff;">🛢 Database</h3>
 <div align="left">
  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="55" height="55" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>&nbsp;
 </div>
 
 <h3 style="color:#58a6ff;">🛠 Dev Tools</h3>
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman" style="margin-right:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman" style="margin-right:8px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" title="VS Code" style="margin-right:8px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" title="Git" style="margin-right:8px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" title="GitHub" style="margin-right:8px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" title="Android Studio" style="margin-right:8px;"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" title="Chrome DevTools"/>&nbsp;
 </div>
 
 ---
