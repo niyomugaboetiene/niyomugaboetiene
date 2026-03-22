@@ -81,6 +81,20 @@
      <img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/hack-the-box-svgrepo-com.svg" height="40" title="Hack The Box" style="margin-right:8px;"/>
     <img src="https://nmap.org/images/sitelogo-nmap.svg" height="40" title="Nmap"/>
 </div>
+
+<h3 style="color:#58a6ff;">🎨 Drawing tools</h3>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" height="40" title="Figma" /> 
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/edrawmax.svg" height="40" title="EdrawMax" /> 
+</div>
+
+<h3 style="color:#58a6ff;">💻  Operating Systems</h3>
+<div align="left">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/windows.svg" height="40" title="Windows" /> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ubuntu.svg" height="40" title="Ubuntu" /> 
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" height="40" title="Kali Linux" />
+</div>
+
 <h3 style="color:#58a6ff;">🛠 Dev Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman" style="margin-right:8px;"/>&nbsp;
