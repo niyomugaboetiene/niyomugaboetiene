@@ -43,7 +43,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" style="margin-right:8px;"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" style="margin-right:8px;"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/Solidity-Logo.wine.svg" height="40" title="Solidity" style="margin-right:8px;"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/icons8-solidity-50.png" height="40" title="Solidity" style="margin-right:8px;"/>&nbsp;
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" />&nbsp;
 </div>
 
