@@ -75,7 +75,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB"/>&nbsp;
 </div>
 
-<h3 style="color:#58a6ff;">🛢 Cyber Security</h3>
+<h3 style="color:#58a6ff;">🛡️ Cyber Security</h3>
 <div align="left">
      <img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/0_rzo5TqptJqMYUkwg.webp" height="40" title="TryHackMe" style="margin-right:8px;"/>
      <img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/hack-the-box-svgrepo-com.svg" height="40" title="Hack The Box" style="margin-right:8px;"/>
