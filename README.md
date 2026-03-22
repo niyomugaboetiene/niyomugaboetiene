@@ -43,7 +43,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" title="PHP" style="margin-right:8px;"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" style="margin-right:8px;"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" height="40" title="Solidity" style="margin-right:8px;"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/Solidity-Logo.wine.svg" height="40" title="Solidity" style="margin-right:8px;"/>&nbsp;
 <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="52" height="52" />&nbsp;
 </div>
 
@@ -84,15 +84,15 @@
 
 <h3 style="color:#58a6ff;">🎨 Drawing tools</h3>
 <div align="left">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/figma.svg" height="40" title="Figma" /> 
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/edrawmax.svg" height="40" title="EdrawMax" /> 
+<img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/wp14775478-figma-wallpapers.jpg" height="40" title="Figma" /> 
+<img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/edrawmax-social-preview.png" height="40" title="EdrawMax" /> 
 </div>
 
 <h3 style="color:#58a6ff;">💻  Operating Systems</h3>
 <div align="left">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/windows.svg" height="40" title="Windows" /> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/ubuntu.svg" height="40" title="Ubuntu" /> 
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/kalilinux.svg" height="40" title="Kali Linux" />
+<img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/uwp4986429.jpeg" height="40" title="Windows" /> 
+<img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/uwp4850668.jpeg" height="40" title="Ubuntu" /> 
+<img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/wp4005878-kali-linux-wallpapers.png" height="40" title="Kali Linux" />
 </div>
 
 <h3 style="color:#58a6ff;">🛠 Dev Tools</h3>
