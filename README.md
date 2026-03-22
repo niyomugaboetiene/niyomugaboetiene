@@ -76,10 +76,9 @@
 </div>
 
 ### 🛢 Cyber Security
-<img src="https://raw.githubusercontent.com/tryhackme/tryhackme-assets/main/brand/logo-light.svg" height="40" title="TryHackMe" style="margin-right:8px;"/>
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/hackthebox.svg" height="40" title="Hack The Box" style="margin-right:8px; color: 'blue'"/>
+<img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/fi-onsuxl-tryhackme%20(1).svg" height="40" title="TryHackMe" style="margin-right:8px;"/>
+<img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/hack-the-box-svgrepo-com.svg" height="40" title="Hack The Box" style="margin-right:8px;"/>
 <img src="https://nmap.org/images/sitelogo-nmap.svg" height="40" title="Nmap"/>
-
 <h3 style="color:#58a6ff;">🛠 Dev Tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" title="Postman" style="margin-right:8px;"/>&nbsp;
