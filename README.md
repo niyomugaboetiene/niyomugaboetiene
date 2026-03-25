@@ -139,5 +139,5 @@
 </div>
 
 <p align="center" style="font-size:14px; color:#999; margin-top:20px;">
-  Made with ❤️ by Etiene Niyomugabo
+Made with ❤️ and ☕ by Etiene Niyomugabo
 </p>
