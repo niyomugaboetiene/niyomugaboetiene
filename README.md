@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/ml.jpg" alt="ML Banner" width="100%" height="450px" style="border-radius:15px; box-shadow:0 6px 25px rgba(0,0,0,0.3);"/>
+  <img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/3079594.jpg" alt="ML Banner" width="100%" height="450px" style="border-radius:15px; box-shadow:0 6px 25px rgba(0,0,0,0.3);"/>
 </p>
 
 ---
