@@ -131,7 +131,7 @@
   <a href="https://twitter.com/@Niyomugabo_250">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="50" style="margin-right:6px;"/>
   </a>
-  <a href="https://instagram.com/niyomugabo_etiene">
+  <a href="https://instagram.com/__net__250">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" style="margin-right:6px;"/>
   </a>
   <a href="https://github.com/niyomugaboetiene">
