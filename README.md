@@ -32,6 +32,9 @@
   <li>🔗 <a href="https://netmoviess.vercel.app/">Movies App</a> – Movies discovery app</li>
   <li>🔗 <a href="https://github.com/niyomugaboetiene/#">Student Management System</a> – Manage students efficiently</li>
   <li>🔗 <a href="https://github.com/niyomugaboetiene/task-remainder-mobile-app">Task Remainder Mobile App</a> – Task management app</li>
+  <li>🔗 <a href="https://predictor-pearl.vercel.app">Predictor</a> – AI-baed project Bengaluru real estate price predictor</li>
+  <li>🔗 <a href="https://github.com/niyomugaboetiene/shp-shpere-app"> Shop Shpere/a> – Modern web based project for listing, buying and selling products<</li>
+  <li>🔗 <a href="https://github.com/niyomugaboetiene/house-sell-app">Home Finder</a> – Web based app for buying, rending and selling houses</li>
 </ul>
 
 <p>📍 Location: <a href="https://www.google.com/maps/place/Bugesera,+Rwanda">Bugesera, Rwanda</a></p>
