@@ -27,10 +27,10 @@
 
 <h2 align="left" style="color:#36BCF7;">💼 My Projects</h2>
 <ul style="font-size:16px; color:#555;">
-  <li>🔗 <a href="https://github.com/niyomugaboetiene/gikonko-chat-frontend">Real Time Web Application</a> – Chat app with real-time features</li>
+  <li>🔗 <a href="https://github.com/niyomugaboetiene/chat-app">Real Time Web Application</a> – Chat app with real-time features</li>
   <li>🔗 <a href="https://niyomugaboetiene.vercel.app">Portfolio Website</a> – My personal portfolio</li>
   <li>🔗 <a href="https://netmoviess.vercel.app/">Movies App</a> – Movies discovery app</li>
-  <li>🔗 <a href="https://github.com/niyomugaboetiene/#">Student Management System</a> – Manage students efficiently</li>
+  <li>🔗 <a href="https://github.com/niyomugaboetiene/student-management.app">Student Management System</a> – Manage students efficiently</li>
   <li>🔗 <a href="https://github.com/niyomugaboetiene/task-remainder-mobile-app">Task Remainder Mobile App</a> – Task management app</li>
   <li>🔗 <a href="https://predictor-pearl.vercel.app">Predictor</a> – AI-baed project Bengaluru real estate price predictor</li>
   <li>🔗 <a href="https://github.com/niyomugaboetiene/shp-shpere-app"> Shop Shpere</a> – Modern web based project for listing, buying and selling products</li>
