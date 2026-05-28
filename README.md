@@ -22,7 +22,7 @@
 
 <p style="font-size:16px; color:#777;">💡 Coming soon: Cybersecurity & Ethical Hacking</p>
 <p style="font-size:16px; color:#777;">
-  💡 Currently focused on Next.js & Flutter Framwerok
+  💡 Currently focused on ML face recognation app
 </p>
 
 <h2 align="left" style="color:#36BCF7;">💼 My Projects</h2>
