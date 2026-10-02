@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Etiene Niyomugabo
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Web3.0+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Engineer;Full+Stack+Developer;Software+Engineer;AI+%26+Technology+Explorer" alt="Typing SVG" />
@@ -51,6 +50,7 @@ Here are some projects I've worked on:
 | [Predictor](https://predictor-pearl.vercel.app)                                           | AI-based Bengaluru real estate price prediction  | Machine Learning      |
 | [Shop Sphere](https://github.com/niyomugaboetiene/shp-shpere-app)                         | Product listing, buying, and selling platform    | E-commerce            |
 | [Home Finder](https://github.com/niyomugaboetiene/house-sell-app)                         | Platform for buying, renting, and selling houses | Web Development       |
+| [KAIROS](https://github.com/niyomugaboetiene/face-recognation-app)                        | Platform for detecting your face and predict name| AI-Based project      |
 
 ---
 
