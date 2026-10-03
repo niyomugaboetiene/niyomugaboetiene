@@ -25,7 +25,7 @@
 
 ## 🚀 About Me
 
-* 👨‍💻 Software Development Student and Technology Enthusiast.
+* 👨‍💻 AI-based App Developer and Technology Enthusiast.
 * ✨ Creating bugs since 2023.
 * 🤖 Passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
 * 🌐 Building modern web applications and exploring Web3 technologies.
