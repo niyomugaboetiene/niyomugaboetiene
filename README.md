@@ -37,7 +37,6 @@
 ---
 
 ## 💼 Featured Projects
-
 Here are some projects I've worked on:
 
 | Project                                                                                   | Description                                      | Technology / Category |
@@ -51,6 +50,7 @@ Here are some projects I've worked on:
 | [Shop Sphere](https://github.com/niyomugaboetiene/shp-shpere-app)                         | Product listing, buying, and selling platform    | E-commerce            |
 | [Home Finder](https://github.com/niyomugaboetiene/house-sell-app)                         | Platform for buying, renting, and selling houses | Web Development       |
 | [KAIROS](https://github.com/niyomugaboetiene/face-recognation-app)                        | Platform for detecting your face and predict name| AI-Based project      |
+| [KAIROS](https://github.com/niyomugaboetiene/Potato_disease_predictor)                    | Platform for detecting leaves crops and predict its sickness| DL-Based project      |
 
 ---
 
