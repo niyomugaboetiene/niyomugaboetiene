@@ -41,16 +41,16 @@ Here are some projects I've worked on:
 
 | Project                                                                                   | Description                                      | Technology / Category |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------- |
-| [Real-Time Web Application](https://github.com/niyomugaboetiene/chat-app)                 | Real-time chat application                       | Web Development       |
+| [Real-Time Web Application](https://school-chat-web.vercel.app)                 | Real-time chat application                       | Web Development       |
 | [Portfolio Website](https://niyomugaboetiene.vercel.app)                                  | My personal portfolio website                    | Frontend              |
-| [Movies App](https://netmoviess.vercel.app/)                                              | Movie discovery application                      | Web Development       |
-| [Student Management System](https://github.com/niyomugaboetiene/student-management.app)   | Manages student information                      | Full Stack            |
+| [Movies App](https://netmoviess.vercel.app)                                              | Movie discovery application                      | Web Development       |
+| [Student Management System](https://gikonko-tss-ms.vercel.app)   | Manages student information                      | Full Stack            |
 | [Task Reminder Mobile App](https://github.com/niyomugaboetiene/task-remainder-mobile-app) | Mobile task management application               | Flutter               |
 | [Predictor AI](https://predictor-pearl.vercel.app)                                           | AI-based Bengaluru real estate price prediction  | Machine Learning      |
-| [Shop Sphere](https://github.com/niyomugaboetiene/shp-shpere-app)                         | Product listing, buying, and selling platform    | E-commerce            |
-| [Home Finder](https://github.com/niyomugaboetiene/house-sell-app)                         | Platform for buying, renting, and selling houses | Web Development       |
-| [KAIROS AI](https://github.com/niyomugaboetiene/face-recognation-app)                        | Platform for detecting your face and predict name| AI-Based project      |
-| [TeraScan AI](https://github.com/niyomugaboetiene/Potato_disease_predictor)                    | Platform for detecting leaves crops and predict its sickness| DL-Based project      |
+| [Shop Sphere](https://shp-shpere.vercel.app)                         | Product listing, buying, and selling platform    | E-commerce            |
+| [Home Finder](https://homezfinder.vercel.app)                         | Platform for buying, renting, and selling houses | Web Development       |
+| [KAIROS AI](https://kairos-ai-web.vercel.app)                        | Platform for detecting your face and predict name| AI-Based project      |
+| [TeraScan AI](https://terascan-ai.vercel.app)                    | Platform for detecting leaves crops and predict its sickness| DL-Based project      |
 
 ---
 
