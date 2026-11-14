@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Etiene Niyomugabo
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Web3.0+Engineer;Machine+Learning+Enthusiast;Deep+Learning+Engineer;Full+Stack+Developer;Software+Engineer;AI+%26+Technology+Explorer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Machine+Learning+Enthusiast;Deep+Learning+Engineer;Full+Stack+Developer;Software+Engineer;AI+%26+Technology+Explorer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -29,7 +29,7 @@
 * ✨ Creating bugs since 2023.
 * 🤖 Passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
 * 🌐 Building modern web applications and exploring Web3 technologies.
-* 🧠 Currently focused on Machine Learning and a Face Recognition Application.
+* 🧠 Currently focused on LLM.
 * 🛡️ Exploring Cybersecurity and Ethical Hacking.
 * 🎯 Goal: To achieve more than yesterday.
 * ☕ Fun fact: It runs on my machine... good luck on yours! 🤞
