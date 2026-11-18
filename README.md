@@ -42,15 +42,15 @@ Here are some projects I've worked on:
 | Project                                                                                   | Description                                      | Technology / Category |
 | ----------------------------------------------------------------------------------------- | ------------------------------------------------ | --------------------- |
 | [Real-Time Web Application](https://school-chat-web.vercel.app)                 | Real-time chat application                       | Web Development       |
-| [Portfolio Website](https://niyomugaboetiene.vercel.app)                                  | My personal portfolio website                    | Frontend              |
+| [Portfolio Website](https://niyomugaboetiene.vercel.app)                                  | My personal portfolio website                    | Portifolio Web              |
 | [Movies App](https://netmoviess.vercel.app)                                              | Movie discovery application                      | Web Development       |
 | [Student Management System](https://gikonko-tss-ms.vercel.app)   | Manages student information                      | Full Stack            |
-| [Task Reminder Mobile App](https://github.com/niyomugaboetiene/task-remainder-mobile-app) | Mobile task management application               | Flutter               |
-| [Predictor AI](https://predictor-pearl.vercel.app)                                           | AI-based Bengaluru real estate price prediction  | Machine Learning      |
-| [Shop Sphere](https://shp-shpere.vercel.app)                         | Product listing, buying, and selling platform    | E-commerce            |
-| [Home Finder](https://homezfinder.vercel.app)                         | Platform for buying, renting, and selling houses | Web Development       |
-| [KAIROS AI](https://kairos-ai-web.vercel.app)                        | Platform for detecting your face and predict name| AI-Based project      |
-| [TeraScan AI](https://terascan-ai.vercel.app)                    | Platform for detecting leaves crops and predict its sickness| DL-Based project      |
+| [Task Reminder Mobile App](https://github.com/niyomugaboetiene/task-remainder-mobile-app) | Mobile task management application               | Mobile App              |
+| [Predictor AI](https://predictor-pearl.vercel.app)                                           | AI-based Bengaluru real estate price prediction  | ML-based Project      |
+| [Shop Sphere](https://shp-shpere.vercel.app)                         | Product listing, buying, and selling platform    | E-commerce Web App            |
+| [Home Finder](https://homezfinder.vercel.app)                         | Platform for buying, renting, and selling houses | Real Estate Marketplaces       |
+| [KAIROS AI](https://kairos-ai-web.vercel.app)                        | Platform for detecting your face and predict name| AI-Based App      |
+| [TeraScan AI](https://terascan-ai.vercel.app)                    | Platform for detecting leaves crops and predict its sickness| DL-Based App      |
 
 ---
 
