@@ -23,20 +23,20 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
-* 👨‍💻 AI-based App Developer and Technology Enthusiast.
-* ✨ Creating bugs since 2023.
-* 🤖 Passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
-* 🌐 Building modern web applications and exploring Web3 technologies.
-* 🧠 Currently focused on LLM.
-* 🛡️ Exploring Cybersecurity and Ethical Hacking.
-* 🎯 Goal: To achieve more than yesterday.
-* ☕ Fun fact: It runs on my machine... good luck on yours! 🤞
+* AI-based App Developer and Technology Enthusiast.
+* Creating bugs since 2023.
+* Passionate about Artificial Intelligence, Machine Learning, and Deep Learning.
+* Building modern web applications and exploring Web3 technologies.
+* Currently focused on LLM.
+* Exploring Cybersecurity and Ethical Hacking.
+* Goal: To achieve more than yesterday.
+* Fun fact: It runs on my machine... good luck on yours! 🤞
 
 ---
 
-## 💼 Featured Projects
+## Featured Projects
 Here are some projects I've worked on:
 
 | Project                                                                                   | Description                                      | Technology / Category |
@@ -54,40 +54,40 @@ Here are some projects I've worked on:
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
-### 💻 Backend Development
+### Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=php,nodejs,python,solidity" />
 </p>
 
-### 🌐 Frontend Development
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
 </p>
 
-### 🤖 Machine Learning & Deep Learning
+### Machine Learning & Deep Learning
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pandas.svg" height="48" alt="Pandas" />
 </p>
 
-### 📱 Mobile Development
+### Mobile Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart" />
 </p>
 
-### 🛢️ Databases
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" />
 </p>
 
-### 🛡️ Cybersecurity
+### Cybersecurity
 
 <p>
   <img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/0_rzo5TqptJqMYUkwg.webp" height="45" alt="TryHackMe" />
@@ -95,20 +95,20 @@ Here are some projects I've worked on:
   <img src="https://nmap.org/images/sitelogo-nmap.svg" height="45" alt="Nmap" />
 </p>
 
-### 🎨 Design Tools
+### Design Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma" />
   <img src="https://raw.githubusercontent.com/niyomugaboetiene/niyomugaboetiene/main/edrawmax-social-preview.png" height="45" alt="EdrawMax" />
 </p>
 
-### 💻 Operating Systems
+### Operating Systems
 
 <p>
   <img src="https://skillicons.dev/icons?i=windows,ubuntu,kali" />
 </p>
 
-### ⚙️ Development Tools
+### Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,androidstudio,linux" />
@@ -116,7 +116,7 @@ Here are some projects I've worked on:
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=niyomugaboetiene&show_icons=true&theme=react&hide_border=true&rank_icon=github" alt="Etiene's GitHub Stats" />
@@ -129,7 +129,7 @@ Here are some projects I've worked on:
 
 ---
 
-## 🏆 GitHub Achievements
+## GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=niyomugaboetiene&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
@@ -137,7 +137,7 @@ Here are some projects I've worked on:
 
 ---
 
-## 📈 My Contribution Activity
+## My Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=niyomugaboetiene&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Etiene's Contribution Graph" />
@@ -145,7 +145,7 @@ Here are some projects I've worked on:
 
 ---
 
-## 🌍 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/niyomugaboetiene">
@@ -166,7 +166,7 @@ Here are some projects I've worked on:
 </p>
 
 <p align="center">
-  📍 Bugesera, Rwanda 🇷🇼
+   Bugesera, Rwanda 🇷🇼
 </p>
 
 ---
