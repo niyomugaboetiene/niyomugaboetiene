@@ -129,14 +129,6 @@ Here are some projects I've worked on:
 
 ---
 
-## GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=niyomugaboetiene&theme=algolia&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
 ## My Contribution Activity
 
 <p align="center">
@@ -185,7 +177,7 @@ Here are some projects I've worked on:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://huggingface.co/">
+  <a href="https://huggingface.co/niyomugaboetiene">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" alt="Hugging Face" />
   </a>
 </p>
