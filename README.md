@@ -144,6 +144,27 @@ Here are some projects I've worked on:
 </p>
 
 ---
+## Hire Me
+
+<p align="center">
+  <a href="https://www.freelancer.com/u/niyomugaboe">
+    <img src="https://cdn.simpleicons.org/freelancer/29B2FE" width="45" alt="Freelancer" />
+  </a>
+  &nbsp;
+  <a href="https://www.truelancer.com/freelancer/niyomugaboetiene">
+    <img src="https://cdn.simpleicons.org/target/00AEEF" width="45" alt="Truelancer" />
+  </a>
+  &nbsp;
+  <a href="https://www.fiverr.com/etiene_12">
+    <img src="https://cdn.simpleicons.org/fiverr/1DBF73" width="45" alt="Fiverr" />
+  </a>
+</p>
+
+<p align="center">
+  Available for freelance projects and collaborations.
+</p>
+---
+---
 
 ## Connect With Me
 
@@ -156,12 +177,16 @@ Here are some projects I've worked on:
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" alt="Twitter" />
   </a>
   &nbsp;
-  <a href="https://instagram.com/__net__250">
+  <a href="https://instagram.com/netcodeschool">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://github.com/niyomugaboetiene">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://huggingface.co/">
+    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" alt="Hugging Face" />
   </a>
 </p>
 
