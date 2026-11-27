@@ -68,11 +68,14 @@ Here are some projects I've worked on:
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
 </p>
 
-### Machine Learning & Deep Learning
+### AI | Machine Learning | Deep Learning | NPL | LLM
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/pandas.svg" height="48" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/keras.svg" height="48" alt="Keras" />
+  <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/src/images/logo.svg" height="48" alt="spaCy" />
+  <img src="https://raw.githubusercontent.com/Sarvandani/Data_science_logos/main/nltk.png" height="48" alt="NLTK" />
 </p>
 
 ### Mobile Development
